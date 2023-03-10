@@ -1,0 +1,71 @@
+
+
+
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    text-align: center;
+    padding: 80px;
+    color: olive;
+    padding-bottom: 40px;
+  
+
+}
+
+div {
+
+    padding-top: 5px;
+}
+
+
+form {
+    
+    display: flex;
+    justify-content:space-around;
+
+
+}
+
+span {
+    display: inline-block;
+    color: orange;
+    display: inline-block;
+}
+
+#nombre {
+    margin-bottom: 20px;
+    padding-right: 90px;
+}
+
+#anoNacimiento {
+    margin-bottom: 20px;
+}
+
+#diaCumple {
+    margin-bottom: 20px;
+}
+
+#mesCumple {
+    margin-bottom: 20px;
+}
+    
+
+p {
+
+    text-align: center;
+
+    padding-top: 60px;
+}
+
+#cars{
+    margin-bottom: 20px;
+}
+
+
+#carsInp {
+
+    margin-bottom: 20px;
+}
